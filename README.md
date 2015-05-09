@@ -10,6 +10,12 @@ Throughout the Spring Security Video Course **you will**:
 - Learn with precise and practical examples for advanced security scenarios such as ACL, REST, and Remember Me
 - See how to integrate with your choice of technology and framework
 
+
+### How to ask questions / file bugs
+Quick technical requirements: 
+- all the code samples need to run with Java 7
+
+
 ### How to ask questions / file bugs
 
 If you find any bug/issue in any of the projects of the course, or if you just want to ask a question, **please use [the github issue tracker](https://github.com/eugenp/course/issues)** (and provide some minimal detail). Thanks. 
