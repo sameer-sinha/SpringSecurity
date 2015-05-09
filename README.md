@@ -1,6 +1,6 @@
 ==================
 
-# [Spring Security 3.1 Course](http://www.packtpub.com/secure-your-web-applications-with-spring-security/video)
+# [Spring Security Course](http://www.packtpub.com/secure-your-web-applications-with-spring-security/video)
 
 ### Overview
 Throughout the Spring Security Video Course **you will**: 
